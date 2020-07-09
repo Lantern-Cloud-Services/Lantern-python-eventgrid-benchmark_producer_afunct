@@ -3,6 +3,7 @@ import random
 import datetime
 import json
 import requests
+import os
 
 import azure.functions as func
 
