@@ -1,0 +1,1 @@
+# Lantern-python-eventgrid-benchmark_producer_afunct
